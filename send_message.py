@@ -15,6 +15,9 @@ Wasza energia, zaangażowanie i każda aktywność naprawdę robią różnicę �
 
 Przypominamy o aktualizacji aktywności do godziny 20:00 ⏰📲
 
+📝 Formularz aktywności:
+👉 https://forms.gle/wBMgLAoHZPyQZezL9
+
 Trzymamy tempo i działamy dalej! 🚀"""
 
 for chat_id in CHAT_IDS:
