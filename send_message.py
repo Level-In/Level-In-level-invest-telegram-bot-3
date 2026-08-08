@@ -6,7 +6,9 @@ TOKEN = os.environ["TELEGRAM_TOKEN"]
 CHAT_IDS = [
     "-1004231126426",
     "-1004249984029",
-    "-1003932802265"
+    "-1003932802265",
+    "-1004476671228",
+    "-1003986838980",
 ]
 
 MESSAGE = """Dziękujemy za dzisiejszy dzień! 💛
